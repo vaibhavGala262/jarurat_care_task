@@ -1,0 +1,11 @@
+com\whatsappbot\model\MessageLog.class
+com\whatsappbot\model\ConversationState.class
+com\whatsappbot\model\OutgoingMessage.class
+com\whatsappbot\WhatsappBotApplication.class
+com\whatsappbot\controller\WebhookController.class
+com\whatsappbot\model\IncomingMessage.class
+com\whatsappbot\service\ConversationStateService$ConversationStats.class
+com\whatsappbot\exception\GlobalExceptionHandler.class
+com\whatsappbot\service\MessageService.class
+com\whatsappbot\service\ConversationStateService.class
+com\whatsappbot\controller\AdminController.class
